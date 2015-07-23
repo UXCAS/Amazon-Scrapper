@@ -16,7 +16,7 @@ To Run the Application
 
 	1) Download the folder and unzip. Move folder to Desktop.
 	2) Open Terminal and enter the following command.
-		cd Amazon-Scrapper-master/
+		cd Desktop/Amazon-Scrapper-master/
 	3) Now enter :  chmod +x start.sh
 	4) Now enter : ./start.sh
 	5) Enter ASIN
