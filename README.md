@@ -1,5 +1,9 @@
 Amazon Review Data Scrapper:
 
+Please make sure to go to the following address: https://nodejs.org/download/
+
+and download and install nodejs for your particular machine configuration before trying out the actuall tool.
+
 To use this tool you would need the following this before starting the tools:
 
 	1) ASIN - The amazon serial identification number - This can be found out in the URL on the review page of Amazon.
@@ -11,6 +15,8 @@ To use this tool you would need the following this before starting the tools:
 
 	3) Max number of Review Pages - If you scroll down on the review page you can see numbers that represent how many pages of reviews does Amazon have. Pick the max number
 					that is shown there.
+
+	4) File Type - Please enter either txt or csv. CSV files allow for easy import into Excel/Spreadsheet whereas the txt file are more useful for text mining/word cloud purposes. The txt file is a combination of all the different comments that have been left for a particular product.
 
 To Run the Application
 
